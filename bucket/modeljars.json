@@ -1,12 +1,12 @@
 {
-  "version": "0.1.28",
+  "version": "0.1.29",
   "description": "Discover and securely prefetch qualified local AI models",
   "homepage": "https://modeljars.org",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ModelJars/modeljars/releases/download/v0.1.28/modeljars-windows-x86_64.exe",
-      "hash": "9623257ea64fe73ac2ab4d7d694334ba57bfcf4df2d5625f167364539ac1b762",
+      "url": "https://github.com/ModelJars/modeljars/releases/download/v0.1.29/modeljars-windows-x86_64.exe",
+      "hash": "6629bead0a4321390a5da90bb99776b86ae7093aa3e157e4c6fba3607fb55437",
       "bin": [["modeljars-windows-x86_64.exe", "modeljars"]]
     }
   },

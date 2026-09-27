@@ -1,12 +1,12 @@
 {
-  "version": "0.0.42",
+  "version": "0.0.43",
   "description": "Ship code, get ranked - SEO/GEO audits for CI/CD",
   "homepage": "https://rankcli.dev",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/integrallis/rankcli-cli/releases/download/v0.0.42/rankcli-windows-x86_64.exe",
-      "hash": "f9f2eaa949a9ad74085f8ca2ffae3297ec04f5a1aa5508df7a49f98e0bb6a61e",
+      "url": "https://github.com/integrallis/rankcli-cli/releases/download/v0.0.43/rankcli-windows-x86_64.exe",
+      "hash": "4e56b7701473659937e19acffc8c3aaaed11e155189f697ae816ace8f8a20011",
       "bin": [["rankcli-windows-x86_64.exe", "rankcli"]]
     }
   },
